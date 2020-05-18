@@ -1,0 +1,11 @@
+{
+  "input_data": [{
+    "fields": ["Buying", "Maintenance", "Doors", "Persons", "Lug_boot", "Safety"],
+    "values": [
+      ["med", "low", "2", "4", "small", "high"],
+      ["high", "high", "3", "4", "big", "high"],
+      ["high", "high", "4", "4", "med", "low"],
+      ["med", "low", "4", "4", "big", "high"]
+    ]
+  }]
+}
